@@ -1,6 +1,6 @@
 <html>
 <meta charset="UTF-8">
-  <title>Cafetería delicioso aroma</title>
+  <title>Cafetería</title>
   <style>
   
     body {
